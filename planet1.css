@@ -10,7 +10,7 @@ body{
 }
 .container{
     min-height: 100vh;
-    background-image: linear-gradient(rgba(25, 30, 134, 0.289), rgba(0, 0, 0, 0.818)), url(Picss/uwp4666810.png);
+    background-image: linear-gradient(rgba(25, 30, 134, 0.289), rgba(0, 0, 0, 0.818)), url(uwp4666810.png);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;

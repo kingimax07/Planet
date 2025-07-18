@@ -14,7 +14,7 @@
   
   .container {
     min-height: 100vh;
-    background: linear-gradient(rgba(25, 114, 134, 0.289), rgba(0, 0, 0, 0.818)),url(Picss/wp15317791.jpg);
+    background: linear-gradient(rgba(25, 114, 134, 0.289), rgba(0, 0, 0, 0.818)),url(wp15317791.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
